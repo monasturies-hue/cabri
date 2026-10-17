@@ -4,7 +4,8 @@ const TOPIC_CATALOG = {
     file: 'temes/E16.md',
     status: 'disponible',
     revision: '2026-10',
-    version: '1'
+    version: '1',
+    keywords: 'RLT òrgans personal racionalització'
   },
   E17: {
     file: 'temes/E17.md',
