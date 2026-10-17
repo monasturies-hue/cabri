@@ -12,9 +12,8 @@ const TOPIC_CATALOG = {
     status: 'disponible',
     revision: '2026-10',
     version: '1'
-  }
-},
-    E18: {
+  },
+  E18: {
     file: 'temes/E18.md',
     status: 'disponible',
     revision: '2026-10',
