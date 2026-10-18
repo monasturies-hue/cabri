@@ -1,5 +1,11 @@
 // Conserva els codis C01…C35 / E01…E30.
 const TOPIC_CATALOG = {
+  C01: {
+    file: 'temes/C01.md',
+    status: 'disponible',
+    revision: '2026-10',
+    version: '1'
+  },
   E16: {
     file: 'temes/E16.md',
     status: 'disponible',
