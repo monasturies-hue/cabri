@@ -6,6 +6,12 @@ const TOPIC_CATALOG = {
     revision: '2026-10',
     version: '1'
   },
+    C02: {
+    file: 'temes/C02.md',
+    status: 'disponible',
+    revision: '2026-10',
+    version: '1'
+  },
   E16: {
     file: 'temes/E16.md',
     status: 'disponible',
