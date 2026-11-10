@@ -3,7 +3,7 @@ const TOPIC_CATALOG = {
   C01: {
     file: 'temes/C01.md',
     status: 'disponible',
-    revision: '2026-10',
+    revision: '2026-11',
     version: '1'
   },
     C02: {
