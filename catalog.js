@@ -9,8 +9,8 @@ const TOPIC_CATALOG = {
     C02: {
     file: 'temes/C02.md',
     status: 'disponible',
-    revision: '2026-10',
-    version: '1'
+    revision: '2026-11',
+    version: '2'
   },
   E16: {
     file: 'temes/E16.md',
